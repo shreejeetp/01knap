@@ -1,0 +1,59 @@
+19mcmb16@ailab_46:~/frctnal_napsck$ python naps.py
+Enter the number of items
+3
+Enter the weight of item number 1
+5
+Enter the value of item number 1
+50
+Enter the weight of item number 2
+20
+Enter the value of item number 2
+140
+Enter the weight of item number 3
+10
+Enter the value of item number 3
+60
+Enter the weigth that knapsack can bear:
+30
+Weight of items	[5, 20, 10]
+Value of items	[50, 140, 60]
+Value/weight of items	[6.0, 7.0, 10.0]
+Capacity of knapsack	3
+
+
+
+Total value of knapsack(greedy) is: 220.0
+
+
+
+Total value of knapsack(dynamic) is: 200.0
+19mcmb16@ailab_46:~/frctnal_napsck$ python naps.py
+Enter the number of items
+3
+Enter the weight of item number 1
+2
+Enter the value of item number 1
+1
+Enter the weight of item number 2
+3
+Enter the value of item number 2
+2
+Enter the weight of item number 3
+4
+Enter the value of item number 3
+5
+Enter the weigth that knapsack can bear:
+6
+Weight of items	[2, 3, 4]
+Value of items	[1, 2, 5]
+Value/weight of items	[0.5, 0.6666666666666666, 1.25]
+Capacity of knapsack	3
+
+
+
+Total value of knapsack(greedy) is: 6.33333333333
+
+
+
+Total value of knapsack(dynamic) is: 6.0
+19mcmb16@ailab_46:~/frctnal_napsck$ 
